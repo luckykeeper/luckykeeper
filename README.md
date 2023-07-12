@@ -1,15 +1,16 @@
 [![GitHub followers](https://img.shields.io/github/followers/luckykeeper?style=for-the-badge&color=blue)](https://github.com/luckykeeper?tab=followers)
 [![Website](https://img.shields.io/website?label=luckykeeper.site&style=for-the-badge&url=https%3A%2F%2Fluckykeeper.site)](http://luckykeeper.site)
 
-### Hi there👏 I'm Luckykeeper, a student from HBFU~
+### Hi there👏 I'm Luckykeeper~
 
-- Majored in Finance💰
-- Favoring Coding💻 Maintaining Services🧣 and Visual Novels🎞 ,also a RTS gamer🎮
-- Interested in Network Safety🌏
-- Assisting in HBFU IT Center😁
-- Will graduate in 2023 and looking for a job in Operations and Maintenance Engineer or Software Development ヾ(≧▽≦*)o
+- prepare for a brand new life
 
-📫 How to reach me: (QQ)3290118815 (Mail)luckykeeper@luckykeeper.site
+<center><p>
+<center><img src="https://github.com/luckykeeper/luckykeeper/assets/34579433/9b94e404-9f02-47e2-9caf-7cb76fb8a412" style="zoom:50%;" alt="心爱酱可爱捏"></center>
+<br>
+<center>放上一只心爱酱在这里，心爱酱可爱捏~</center></p></center>
+
+📫 How to reach me: (Mail)luckykeeper@luckykeeper.site
 
 <table>
 <tr>
