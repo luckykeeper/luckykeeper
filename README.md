@@ -3,7 +3,7 @@
 
 ### Hi there👏 I'm Luckykeeper~
 
-- prepare for a brand new life
+- starting brand new life
 
 <center><p>
 <center><img src="https://github.com/luckykeeper/luckykeeper/assets/34579433/9b94e404-9f02-47e2-9caf-7cb76fb8a412" style="zoom:50%;" alt="心爱酱可爱捏"></center>
