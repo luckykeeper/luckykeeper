@@ -1,5 +1,5 @@
 [![GitHub followers](https://img.shields.io/github/followers/luckykeeper?style=for-the-badge&color=blue)](https://github.com/luckykeeper?tab=followers)
-[![Website](https://img.shields.io/website?label=luckykeeper.site&style=for-the-badge&url=https%3A%2F%2Fluckykeeper.site)](http://luckykeeper.site)
+[![Website](https://img.shields.io/badge/luckykeeper.site-Blog-cyan)](http://luckykeeper.site)
 
 ### Hi there👏 I'm Luckykeeper~
 
