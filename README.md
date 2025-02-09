@@ -3,14 +3,12 @@
 
 ### Hi there👏 I'm Luckykeeper~
 
-- Enjoying brand new life
-
 <center><p>
 <center><img src="https://github.com/luckykeeper/luckykeeper/assets/34579433/9b94e404-9f02-47e2-9caf-7cb76fb8a412" style="zoom:50%;" alt="心爱酱可爱捏"></center>
 <br>
 <center>放上一只心爱酱在这里，心爱酱可爱捏~</center></p></center>
 
-⌨ Click [here](https://gitlab-calendar.luckykeeper.site:44443) to see my contributions to company's GitLab repository
+⌨ Click [here](https://gitea-calendar.luckykeeper.site:44443/) to see my contributions to company's Gitea repository
 
 📫 How to reach me: (Mail)luckykeeper@luckykeeper.site
 
